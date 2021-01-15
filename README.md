@@ -10,8 +10,8 @@ Coordinates should be entered as digits (1-3) separated by space, for example '3
 <p>
 \ 1  2  3
 \---------
-\|     X | 3
-\|       | 2
-\|       | 1
+\|    X \| 3
+\|      \| 2
+\|      \| 1
 \---------
 </p>
